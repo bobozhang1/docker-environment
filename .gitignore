@@ -1,0 +1,17 @@
+# dockerfile
+*.zip
+.DS_Store
+/.idea
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+.ntvs
+*.njsproj
+*.sln
+*.sw?
+
+/node_modules
+/docs/.vitepress/.cache
+/docs/.vitepress/.temp
