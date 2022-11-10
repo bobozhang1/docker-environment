@@ -13,5 +13,5 @@
 *.sw?
 
 /node_modules
-/docs/.vitepress/.cache
-/docs/.vitepress/.temp
+/docs/.vuepress/.cache
+/docs/.vuepress/.temp
