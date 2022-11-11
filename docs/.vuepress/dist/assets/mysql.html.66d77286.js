@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,a as e}from"./app.dc5293ba.js";const l={},c=e("p",null,"#MYSQL",-1),_=e("blockquote",null,[e("p",null,"本文档的目的是快速的利用容器技术搭建mysql数据服务")],-1),n=[c,_];function a(r,m){return o(),s("div",null,n)}const d=t(l,[["render",a],["__file","mysql.html.vue"]]);export{d as default};
