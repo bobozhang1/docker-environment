@@ -5,9 +5,9 @@ export default defineUserConfig({
     title: '狂奔的蜗牛',
     description: '美好从这一刻开始',
     base: 'docker-environment/',
-    head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
+    head: [['link', { rel: 'icon', href: '/docker-environment/images/logo.png' }]],
     theme: defaultTheme({
-        logo: '/docker-environment/images/logo.png',
+        logo: 'images/logo.png',
         navbar: [
             // NavbarItem
             {
