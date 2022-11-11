@@ -7,7 +7,7 @@ export default defineUserConfig({
     base: 'docker-environment/',
     head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
     theme: defaultTheme({
-        logo: '/images/logo.png',
+        logo: '/docker-environment/images/logo.png',
         navbar: [
             // NavbarItem
             {
