@@ -3,7 +3,7 @@ import {defaultTheme, defineUserConfig} from 'vuepress'
 export default defineUserConfig({
     lang: 'zh-CN',
     title: '狂奔的蜗牛',
-    description: 'boyd  的文档',
+    description: '美好从这一刻开始',
     base: 'docker-environment/',
     head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
     theme: defaultTheme({
