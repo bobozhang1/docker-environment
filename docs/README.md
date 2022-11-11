@@ -91,7 +91,6 @@ if ($yes) {
 - 注释必须使用**英文语言**
 
 示例：
-![](/image/screenshots/toolbox/comment.png)
 
 ## 4.错误处理和日志记录(Error process and Logging)
 
@@ -122,7 +121,6 @@ if ($yes) {
 - 注意`system setting`表中的`IsTestConfigRequired`属性（是否要求在测试环境中配置）
 
 示例：
-![](/image/screenshots/toolbox/system-setting.png)
 
 ## 7.数据库设计(DATABASE DESIGN)
 
