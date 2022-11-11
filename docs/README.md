@@ -2,8 +2,6 @@
 
 > 本文档的目的是简单地回顾指导方针，并迫使开发人员意识到那些在日常工作中很重要或经常被观察到的要点。为了达到这一目标，我们要求开发团队负责人在每次会议开始时与开发人员一起审阅文档中的主题，以加强指导方针。
 
-在线文档: https://tke.sharepoint.com/:p:/r/sites/tkeapitapplication/view/Shared%20Documents/Guidelines%20and%20Standards/VIEW%20develop%20team%20toolbox%20talk%20v1.4.pptx?d=wf3ae10c2fb114ee8b5855301a37c6a61&csf=1&web=1&e=dskURI
-
 ## 1.命名规范(Naming Convention)
 
 > 如何在不同的情况下命名?
