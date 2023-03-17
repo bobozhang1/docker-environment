@@ -215,6 +215,7 @@ day = this.commonService.dateformat(new Date(new Date(day.replace(/\-/g,"/") ).g
 - 查看数据库架构
   Tkglobal, tkcountry和复制机制
 - VIEW中的实例体系结构 BU/OU
+  ![](/images/BU.png)
 ## 14.安全（Security）
 安全相关的点
 ### 规范
