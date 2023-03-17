@@ -9,6 +9,10 @@ export default defineUserConfig({
     theme: defaultTheme({
         logo: 'images/logo.png',
         navbar: [
+            {
+                text: 'PHP环境',
+                link: '/containerenv/'
+            },
             // NavbarItem
             {
                 text: '开发规范',
