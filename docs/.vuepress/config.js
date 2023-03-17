@@ -11,7 +11,7 @@ export default defineUserConfig({
         navbar: [
             {
                 text: 'PHP环境',
-                link: '/containerenv/'
+                link: '/phpbase/containerenv/'
             },
             // NavbarItem
             {
